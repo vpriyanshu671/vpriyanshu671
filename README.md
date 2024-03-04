@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyanshu verma 21 years old</h1>
-<h3 align="center">Starting my career as Backend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vpriyanshu671&label=Profile%20views&color=0e75b6&style=flat" alt="vpriyanshu671" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vpriyanshu671" alt="vpriyanshu671" /></a> </p>
+<h1 align="center">Hi 👋, I'm Priyanshu verma 21 years old Currently I am at 7th Semester from Punjabi University</h1>
+<h3 align="center">Starting my career as Backend developer and Doing Internship at Techsalo InfoTech</h3>
 
 - 🔭 I’m currently working on [Avartify](Private Repo)
 
@@ -23,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanshu verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu verma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-verma-9ba911160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu verma" height="30" width="40" /></a>
 <a href="https://instagram.com/vermapriyanshu_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermapriyanshu_24" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@priyanshuverma-kv8lp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@priyanshuverma-kv8lp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@PriyanshuVerma-kv8lp/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@priyanshuverma-kv8lp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu671" height="30" width="40" /></a>
 </p>
 
