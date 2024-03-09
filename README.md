@@ -11,7 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vpriyanshu671/vpriyanshu671](https://github.com/vpriyanshu671/vpriyanshu671)
 
-- 💬 Ask me about **Python , Google Cloud , Flask , Docker , Spark , AI , Github , Kafka**
+<h3 align="left">Articles:</h3>
+
+- � I have written an article on CI/CD pipelines for containerized React apps on Medium. You can read it [here](https://medium.com/techsalo-infotech/from-github-to-cloud-building-ci-cd-pipelines-for-containerized-react-apps-f77aa3cec1d0).
+
+- �💬 Ask me about **Python , Google Cloud , Flask , Docker , Spark , AI , Github , Kafka**
 
 - 📫 How to reach me **vpriyanshu671@gmail.com**
 
