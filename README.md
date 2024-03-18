@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Ray, LLM , Spark ,Kafka**
+- 🤝 I’m looking for help with **Ray, LLM , Spark ,Kafka ,React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vpriyanshu671/vpriyanshu671](https://github.com/vpriyanshu671/vpriyanshu671)
 
