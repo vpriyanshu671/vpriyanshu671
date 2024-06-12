@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu verma 21 years old Currently I am at 7th Semester from Punjabi University</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu verma 21 years old Graduated from Punjabi University</h1>
 <h3 align="center">Starting my career as Backend developer and Doing Internship at Techsalo InfoTech</h3>
 
 - 🔭 I’m currently working on [Avartify](Private Repo)
