@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanshu verma 21 years old Graduated from Punjabi University</h1>
-<h3 align="center">Starting my career as Backend developer and Doing Internship at Techsalo InfoTech</h3>
+<h3 align="center">I am Data Engineer and Backend Developer at Techsalo Infotech </h3>
 
-- 🔭 I’m currently working on [Avartify](Private Repo)
+- 🔭 I’m currently working on [sparkassist](Private Repo)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -13,13 +13,28 @@
 
 <h3 align="left">Articles:</h3>
 
--  I have written an article on CI/CD pipelines for containerized React apps on Medium. You can read it [here](https://medium.com/techsalo-infotech/from-github-to-cloud-building-ci-cd-pipelines-for-containerized-react-apps-f77aa3cec1d0).
+- I have written an article on CI/CD pipelines for containerized React apps on Medium. You can read it [here](https://medium.com/techsalo-infotech/from-github-to-cloud-building-ci-cd-pipelines-for-containerized-react-apps-f77aa3cec1d0).
 
-- Ask me about **Python , Google Cloud , Flask , Docker , Spark , AI , Github , Kafka**
+- Building a Social Network with Neo4j and Docker. You can read it [here](https://medium.com/@vpriyanshu671/building-a-social-network-with-neo4j-and-docker-3762c58c59f4).
+
+- Mastering Big Data with Google Cloud Dataproc and Apache Spark: A Comprehensive Guide. You can read it [here](https://medium.com/@vpriyanshu671/mastering-big-data-with-google-cloud-dataproc-and-apache-spark-a-comprehensive-guide-89c6adac5e17).
+
+- From CSV to Versatile Data Formats. You can read it [here](https://medium.com/@vpriyanshu671/from-csv-to-versatile-data-formats-f007dbe5cacf).
+
+- Transforming CSV Data from Google Cloud Storage to BigQuery with Spark. You can read it [here](https://medium.com/@vpriyanshu671/transforming-csv-data-from-google-cloud-storage-to-bigquery-with-spark-d4dff3dc93f5).
+
+- Setting Up MySQL and PostgreSQL on Google Cloud VMs and Accessing Them via Flask API. You can read it [here](https://medium.com/techsalo-infotech/setting-up-mysql-and-postgresql-on-google-cloud-vms-and-accessing-them-via-flask-api-c4676694b62e).
+
+- Evaluating BigQuery's Performance with Diverse Data Formats on External Databases: A Comprehensive Guide. You can read it [here](https://medium.com/techsalo-infotech/evaluating-bigquerys-performance-with-diverse-data-formats-on-external-databases-a-comprehensive-c97ebd4b5db5).
+
+- Building a Scalable Data Lake with Databricks and AWS: From Ingestion to Data Cataloging. You can read it [here](https://medium.com/techsalo-infotech/building-a-scalable-data-lake-with-databricks-and-aws-from-ingestion-to-data-cataloging-31890303749b).
+
+
+- Ask me about **Python , Google Cloud , Flask , Docker , Spark , AI , Github , Kafka ,pyspark**
 
 - 📫 How to reach me **vpriyanshu671@gmail.com**
 
-- ⚡ Fun fact **I Know swimming**
+- ⚡ Fun fact **I Know Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
