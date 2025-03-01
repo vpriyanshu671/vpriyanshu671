@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu verma</h1>
-<h3 align="center">I am a Backend Developer mostly used Flask </h3>
+<h3 align="center">I am a Backend Developer</h3>
 
-- Ask me about **Python , Google Cloud , Flask , Docker , Spark , AI , Github , Kafka , pyspark**
+- I have Experience with **Python , Google Cloud , Flask , Docker , Spark , AI , Github , Kafka , pyspark**
 
 - 📫 How to reach me **vpriyanshu671@gmail.com**
 
